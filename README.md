@@ -3,7 +3,7 @@
 
 [Workshop Desarrollo de sistema de tickets]()
 
-## Temario del Workshop Desarrollo de sistema de tickets:
+## Sistema de tickets:
 
 ### Primera fase del proyecto: Lógica de negocio y modelado de datos.
 
