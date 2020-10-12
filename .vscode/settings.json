@@ -1,0 +1,8 @@
+{
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.renderWhitespace": "all",
+    "editor.smoothScrolling": true,
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "deepIndent"
+}
