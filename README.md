@@ -1,4 +1,4 @@
-# Sistema de tickets de HardSoftDay 2019 Desarrollado por @ManuelDuarte077
+# Sistema de tickets
 
 
 [Sistema de tickets]()
